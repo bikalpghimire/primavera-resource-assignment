@@ -3,9 +3,9 @@ import pandas as pd
 # ============================================================
 # FILE PATHS
 # ============================================================
-ACTIVITY_FILE = "temp-1.xlsx"
+ACTIVITY_FILE = "temp-2.xlsx"
 BOQ_FILE = "boq-resource-id-hrs.xlsx"
-OUTPUT_FILE = "output-final.xlsx"
+OUTPUT_FILE = "output-final-3.xlsx"
 
 # ============================================================
 # LOAD FILES
